@@ -46,10 +46,10 @@ function play(){
     console.log("chances", chances)
     
     if(userValue < gameNumber){
-        resultArea.textContent ="UP!"
+        resultArea.textContent ="업이데이!"
         console.log("UP!")
     } else if(userValue > gameNumber){
-        resultArea.textContent ="DOWN!"
+        resultArea.textContent ="다운이데이!"
         console.log("Down!")
     } else {
         resultArea.textContent ="니론대네!"
