@@ -6,8 +6,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-family: "East Sea Dokdo", cursive;
-    background-image: url(image/soju.jpeg);
+    background-image: url('soju.jpg')
   }
   
   .container {
